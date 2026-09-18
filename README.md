@@ -12,7 +12,7 @@
 **A modern, desktop-first, non-linear video editor (NLE) built for creators, educators, and storytellers.**  
 *Free, privacy-respecting, offline-capable, and forever open-source.*
 
-[Explore Features](#-key-features) • [Current Status](#-project-status--active-roadmap) • [Getting Started](#-getting-started) • [Tech Stack](#-architecture--tech-stack) • [Contributing](#-contributing)
+[Explore Features](#-key-features) • [Current Status](#-project-status--active-roadmap) • [Getting Started](#-getting-started) • [Tech Stack](#-architecture--tech-stack) • [Contributing](#-contributing) • [Connect & Hire](#-connect-hire--community)
 
 </div>
 
@@ -155,6 +155,27 @@ Since the project is in active development:
 3. Commit your changes with clear messages (`git commit -m 'Add amazing feature'`).
 4. Ensure all tests pass (`npm test` & `npx tsc --noEmit`).
 5. Open a Pull Request.
+
+---
+
+## 📬 Connect, Hire & Community
+
+Have a project inquiry, want to collaborate, need custom AI/video software development, or want to support the project? Let's connect!
+
+<div align="center">
+
+| 🌐 **Portfolio** | 📄 **AI Powered PRD** | 📧 **Business Inquiries** |
+| :---: | :---: | :---: |
+| [portfolio.webdevmehedi.com](https://portfolio.webdevmehedi.com/) | [webdevmehedi.com](https://webdevmehedi.com/) | [ailshourov2@gmail.com](mailto:ailshourov2@gmail.com) |
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WebDevMehedi)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow%20Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/webdevmehedi)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web_dev_mehedi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/web-dev-mehedi)
+
+</div>
 
 ---
 
